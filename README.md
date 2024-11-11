@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nim, maldev**
 
-- 📫 Email me **jeffbarron@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jeffaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jeffaf" height="30" width="40" /></a>
