@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeff Barron</h1>
 <h3 align="center">An offensive security professional and developer</h3>
 
-- 🔭 I’m currently working on [bazzy](https://github.com/jeffaf/bazzy)
-
 - 🌱 I’m currently learning **Nim, maldev**
 
 <h3 align="left">Connect with me:</h3>
