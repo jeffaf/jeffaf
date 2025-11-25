@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff Barron</h1>
 <h3 align="center">An offensive security professional and developer</h3>
 
-- 🌱 I’m currently learning **Nim, maldev**
+- 🌱 I’m currently learning **Nim, maldev, MacOS red team tool development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
