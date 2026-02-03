@@ -8,7 +8,7 @@
   <a href="https://twitter.com/_jeffaf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jeffaf" height="30" width="40" /></a>
   <a href="https://bsky.app/profile/jeffaf.bsky.social" target="_blank"><img align="center" src="https://cdn.simpleicons.org/bluesky/0285FF" alt="jeffaf" height="30" width="40" /></a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://credrelay.beehiiv.com"><strong>📬 Cred Relay</strong></a> — my newsletter on offensive security + AI
 </p>
 
