@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeff Barron</h1>
-<h3 align="center">Offensive security professional and developer</h3>
+<h3 align="left">Offensive security professional and developer</h3>
 
-<p align="center">🌱 Currently learning <strong>Nim, maldev, MacOS red team tool development</strong></p>
+<p align="left">🌱 Currently learning <strong>Nim, maldev, MacOS red team tool development</strong></p>
 
-<p align="center">
+<p align="left">
   <a href="https://credrelay.beehiiv.com"><strong>📬 Cred Relay</strong></a> — my newsletter on offensive security + AI
 </p>
 
