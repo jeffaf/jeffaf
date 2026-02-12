@@ -4,7 +4,7 @@
 <p align="left">🌱 Currently learning <strong>Nim, maldev, MacOS red team tool development</strong></p>
 
 <p align="left">
-  <a href="https://credrelay.beehiiv.com"><strong>📬 Cred Relay</strong></a> — my newsletter on offensive security + AI
+  <a href="https://credrelay.com"><strong>📬 Cred Relay</strong></a> — my newsletter on offensive security + AI
 </p>
 
 
